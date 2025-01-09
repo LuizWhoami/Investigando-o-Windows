@@ -26,4 +26,5 @@ Para começarmos temos que ter a em mente que iremos ter varias pesquisas em for
   [Formato da resposta: username1, username2]
 
  Comando no powershell: Get-LocalGroupMember -group "Administrators"
+ 
   [Caso dê erro na resposta verifique os nomes em diferentes ordens =]
